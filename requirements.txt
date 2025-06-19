@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+hypercorn
+pydantic
+pydantic-settings
+python-dotenv
+supabase
+stripe
+python-jose[cryptography]
+aiohttp
+requests
