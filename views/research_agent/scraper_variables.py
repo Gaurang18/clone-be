@@ -1,10 +1,7 @@
 # Facebook Scraper Variables and Constants
 
 # Proxies configuration
-# PROXIES = {
-#     'http': 'http://250526piMu8-resi-any:MG2Vqxf3W46dKCr@proxy-jet.io:1010',
-#     'https': 'http://250526piMu8-resi-any:MG2Vqxf3W46dKCr@proxy-jet.io:1010'
-# }
+
 
 # Facebook Base Headers
 FB_BASE_URL = "https://www.facebook.com/api/graphql/"
